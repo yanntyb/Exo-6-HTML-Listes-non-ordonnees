@@ -32,7 +32,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exo-7-HTML-Listes-ordonnees" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,6 +45,7 @@
       <updated>1603726385747</updated>
       <workItem from="1603726386845" duration="857000" />
       <workItem from="1603786312781" duration="77000" />
+      <workItem from="1603882240550" duration="8000" />
     </task>
     <servers />
   </component>
@@ -52,9 +53,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1603727247639">
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1603882246905">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1603727247639" />
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1603882246905" />
   </component>
 </project>
